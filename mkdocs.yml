@@ -1,7 +1,7 @@
 # Replace the text below to customize your site
 site_name: maryamshojaei - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: maryamshojaei
+site_author: maryamshojaei  
 copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
@@ -43,8 +43,8 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
-    accent: purple
+    primary: orange
+    accent: pink
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
