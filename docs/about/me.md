@@ -7,4 +7,4 @@ I believe design has the power to transform how we live and interact with the wo
 For me, design is more than a profession; it’s a way to connect people, nature, and innovation in harmony.
 
 
-![](../images/perezoso.jpg)
+![](../images/maryams.jpg)
