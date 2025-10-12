@@ -1,5 +1,10 @@
 ## Welcome
 
-![](../images/perezoso.jpg)
+I’m Maryam Shojaei, a product designer currently studying at IAAC. My work focuses on exploring how design connects functionality, emotion, and human experience. This website presents an overview of my design journey from initial concepts and sketches to developed projects and tangible outcomes. Each project reflects my interest in understanding how ideas evolve through material, form, and interaction. I see design as a continuous process of learning, questioning, and creating meaningful solutions. You’re invited to explore my projects and discover the thoughts, processes, and inspirations that shape my approach to design.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](../images/maryam.jpg)
+
+
+In the Projects section, you can explore my academic and personal works, starting from my first-term projects at IAAC. Each project reflects a step in my growth as a designer — from experimentation and research to hands-on prototyping. Together, they represent my ongoing exploration of form, material, and meaning. Feel free to explore, discover connections, and see how my ideas continue to evolve through design.
+
+[](../images/projects.gif)
