@@ -7,5 +7,5 @@ I believe design has the power to transform how we live and interact with the wo
 Beyond design, I am also a professional show jumping rider, deeply passionate about equestrian sports. I hope to one day merge these two worlds — combining my love for horses with my design expertise — to contribute meaningfully to the development of innovative and human-centered solutions in the equestrian field. For me, design is more than a profession; it’s a way to connect people, nature, and innovation in harmony.
 
 
-![](../images/riding.gif)
+![](../images/riding.jpg)
 
