@@ -23,12 +23,26 @@ Ultimately, I hope to turn this concept into an earring—something both aesthet
 
 https://www.youtube.com/watch?v=3gSjQHuu41E
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/3gSjQHuu41E"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
 
 Day Two: Becoming Something Else
 On this day, we were asked to choose an ability from any creature we admired and design a tool that would allow us to use that ability. I have always found wall-climbing and rock-climbing extremely fascinating, as well as handstands—being able to firmly connect to the ground with my hands and balance with my legs in the air.
 The concept I developed was a pair of gloves equipped with suction pads. These pads create suction upon contact with a wall, allowing the user to adhere to and move along vertical surfaces. The suction pads are made of rubber, while the glove itself is plastic so it can fully conform to the shape of the hand and fit securely.
 
 https://www.youtube.com/watch?v=oA9RkvwKXEo
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/oA9RkvwKXEo"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
 
 
 Day Three: How We Want Others to See Us
