@@ -41,10 +41,7 @@ extra:
 
 theme:
   name: material
-  palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: orange
-    accent: pink
+  palette: custom
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
@@ -61,8 +58,6 @@ theme:
     # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
 
 plugins:
   - search

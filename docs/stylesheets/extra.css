@@ -7,8 +7,10 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: rgb(12, 240, 190);
-
+    --md-typeset-a-color: rgb(0, 133,98 );
+    --md-primary-fg-color:        #8ae600;
+    --md-primary-fg-color--light: #42ba7c;
+    --md-primary-fg-color--dark:  #008562;
 }
 
 
