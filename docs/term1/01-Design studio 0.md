@@ -3,8 +3,9 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
 
+# Design Studio 0
+Atlas of Weak Signals
 Atlas of Weak Signals explores subtle emerging patterns that reveal possible directions for our collective future. These signals highlight early signs of environmental, social, and technological change that may later shape global challenges. By studying them, we aim to understand how design can respond with awareness and resilience. Rather than predicting the future, our approach focuses on adaptability and coexistence — using design as a tool to imagine responsible, inclusive, and sustainable ways of living in an ever-changing world.
 
 ![](../images/atlas of weak signal.jpg)
