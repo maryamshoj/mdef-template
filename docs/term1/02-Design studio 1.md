@@ -13,12 +13,15 @@ Trainers often push horses to perform flawlessly in competitions or to improve t
 
 To explore this subject in depth, I conducted research in several areas. I gathered insights from trainers and active equestrians, studied the historical role of horses in human society, examined equestrian competitions, and investigated horse body language. The following video showcases some of my research in this field.
 
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/fgL8Ha70psY"
 title="YouTube video player" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen>
 </iframe>
+
+
 
 
 # Project Focus
@@ -33,6 +36,8 @@ The project questions the autonomy of horses: Are they truly at ease? Do they ch
 
 Layer Three: Miscommunication Between Humans and Horses
 Humans cannot fully understand horse language, just as horses do not fully understand ours. Yet, we communicate through body language, sound, tone, gaze, and movement. Inspired by this, I designed an exercise in which two humans, who do not share a spoken language, interact using only voice, tone, gestures, and body posture. They then explain what they understood from each other. This experience mirrors the human-horse relationship, where words are absent and only perception, attention, and signals remain—similar to a horse silently asking for something through its gaze or ear movements, leaving us to interpret.
+
+
 
 # Potential Impacts of the Project
 
@@ -51,6 +56,8 @@ Encourage Ethical Reflection and Behavior Change – Invite reflection through b
 Promote Cross-Species Communication – Highlight that understanding can occur through observation, touch, and silence beyond verbal language.
 
 
+
+
 # Measurable Objectives
 
 Experience Empathy – At least 70% of participants report feeling fatigue, limitation, or empathy with the horse (via forms or discussion).
@@ -61,6 +68,8 @@ Attitude Change – At least half of participants express willingness to reconsi
 
 Observable Physical Reactions – Record changes in body language (movement speed, posture, gestures) during various parts of the experience. 
 Long-Term Recall – Participants recall the core emotional experience in follow-up discussions days later.
+
+
 
 
 # Type of Action
@@ -87,11 +96,13 @@ Confined Three-Meter Space – A controlled environment with intermittent sounds
 
 
 
+
 # Practical Experiment
 
 To fully understand my topic, I combined layers one and two by simulating the life of a show-jumping horse. I created a scenario to experience life in a small stall for 12 hours, simulating the confinement and conditions of competition. I observed behaviors I could emulate to gain a better understanding of the horse’s experience. Despite my asthma and heart condition, I pushed myself as far as possible to execute this hypothesis.
 
 (Video of the performed action)
+
 
 
 
