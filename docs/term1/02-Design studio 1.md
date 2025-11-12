@@ -38,15 +38,20 @@ Humans cannot fully understand horse language, just as horses do not fully under
 
 Reveal Hidden Inequalities – Challenge the mechanical, score-focused approach in equestrian competitions and encourage a redefinition of success.
 
+
 Foster Physical Empathy – Allow the audience to not just see but feel the pressure, fatigue, and expectations from the horse’s perspective.
+
 
 Redefine Human-Animal Relationships – Shift from dominance to understanding, respect, and coexistence.
 
+
 Encourage Ethical Reflection and Behavior Change – Invite reflection through body language and emotion rather than judgment.
+
 
 Promote Cross-Species Communication – Highlight that understanding can occur through observation, touch, and silence beyond verbal language.
 
-Measurable Objectives
+
+# Measurable Objectives
 
 Experience Empathy – At least 70% of participants report feeling fatigue, limitation, or empathy with the horse (via forms or discussion).
 
@@ -57,21 +62,30 @@ Attitude Change – At least half of participants express willingness to reconsi
 Observable Physical Reactions – Record changes in body language (movement speed, posture, gestures) during various parts of the experience. 
 Long-Term Recall – Participants recall the core emotional experience in follow-up discussions days later.
 
+
 # Type of Action
 
 The main action of the project combines resistance, protest, and invitation to reform:
 
+
 Resistance – Against instrumental and score-focused treatment of animals, simulating human exhaustion as a metaphor for the horse’s body.
+
 
 Protest – Visual and emotional demonstration of unfair systems that ignore animal well-being.
 
+
 Invitation to Reform – Engaging audiences empathetically, encouraging reflection without violence or blame.
+
 
 The experience can be presented in three stations:
 
+
 Scores and Fatigue Display – A monitor shows scores while a human body becomes progressively exhausted, symbolizing the horse’s strain.
 
+
 Confined Three-Meter Space – A controlled environment with intermittent sounds and silence to create a sense of waiting and limitation.
+
+
 
 # Practical Experiment
 
@@ -79,10 +93,11 @@ To fully understand my topic, I combined layers one and two by simulating the li
 
 (Video of the performed action)
 
-Insights from Interviews and Observations
+
+
+# Insights from Interviews and Observations
 
 Through interviews with riders and trainers, I identified key factors for preparing horses for competitions with less stress and more readiness:
-
 Specifying rest, training, and training type for each horse.
 
 Avoiding tasks beyond the horse’s capability, understanding its physical limits, and knowing suitable jump heights.
