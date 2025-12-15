@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/about/me/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/01-Design%20studio%200/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/02-Design%20studio%201/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/03-reflection%20I/</loc>
-         <lastmod>2025-11-12</lastmod>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/04-AWOS%20-%20Copy/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/05-Unpacking%20Tech%20Systems%20I/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/06-Unpacking%20Tech%20Systems%20II/</loc>
+         <lastmod>2025-12-15</lastmod>
     </url>
 </urlset>
