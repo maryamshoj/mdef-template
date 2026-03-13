@@ -63,7 +63,11 @@ In its final state, BloomBite operates as a closed-loop responsive system. When 
 
 This creates a subtle but meaningful shift in power. The plant influences human experience. The human must care in order to receive.
 
+![](../images/processdiagram.jpg)
+
 ![](../images/bloombite.gif)
+
+
 
 ## Reflection
 BloomBite represents both a conceptual and technical journey. It challenged my understanding of interaction design by positioning non-human life as an active participant within a technological system. At the same time, it pushed me beyond theoretical thinking into deep electronic troubleshooting, hardware–software integration, and mechanical prototyping.
