@@ -8,15 +8,12 @@ hide:
 
 ## BIO-INTELLIGENT COEXISTENCE EXTENDING THE HUMAN MANIFESTO
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe 
-    src="https://www.youtube.com/watch?v=UGH1-3lYJhQ" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
+<a href="https://www.youtube.com/watch?v=UGH1-3lYJhQ" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/UGH1-3lYJhQ/maxresdefault.jpg" 
+    alt="Watch video" 
+    style="width: 100%; cursor: pointer;">
+</a>
 
 The Body as Sovereign: A Vision for Intelligent Bio-Organoid Systems
 At the intersection of biotechnology and philosophy, the concept of Intelligent Bio-Organoid Systems presents a compelling vision for the future of medicine. The diagram depicts a "Smart Bio-Organoid" capable of detecting cellular imbalance, guiding tissue repair, targeting excess fat cells, and maintaining overall health , a miniature biological intelligence operating quietly within the human body.

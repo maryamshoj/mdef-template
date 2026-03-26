@@ -66,17 +66,12 @@ Maybe I’m not talking about a cardboard box. I’m talking about those beings 
 A clear example might be horses. Throughout history, humans initially saw the horse as a beautiful and inspiring creature. But over time, look at what humans have done to horses: they pushed them beyond their limits and used them as tools, tools for entertainment, leisure, agricultural labor, transportation, and more. And even after inflicting so much harm, humans still exploit them. They don’t even spare the body after death, using the skin to make clothes and for other purposes.
 
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe 
-    src="https://www.youtube.com/watch?v=n6bntZhZez0" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
-
-    
+<a href="https://www.youtube.com/watch?v=n6bntZhZez0" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/n6bntZhZez0/maxresdefault.jpg" 
+    alt="Watch video" 
+    style="width: 100%; cursor: pointer;">
+</a>
     
 
 # Problematize Objects
