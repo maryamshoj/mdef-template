@@ -69,3 +69,4 @@ I started this project asking whether we could be the voice of the horse. I end 
 Equisense is that reason. A small device, a set of questions, a pixel-art screen with Persian patterns on its edges and an SD card in its back carrying 38 hand-drawn images. But behind it is a genuine conviction: that design can change the relationship between a human and an animal, that technology does not always need to go onto a living body to serve it, and that sometimes the most powerful thing a tool can do is simply slow a person down long enough to pay attention.
 That is what I made. That is why I made it. And that, I think, is only the beginning.
 ![](../images/879709056434377053.jpg)
+
