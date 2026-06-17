@@ -5,7 +5,7 @@ hide:
 
 
 # Equisense — Being the Voice of the Horse
-- A reflection on designing for a species that cannot speak for itself.
+## A reflection on designing for a species that cannot speak for itself.
 
 ## Where It Began
 I have always been drawn to the idea that design can be an act of empathy. Not just problem-solving, not just aesthetics — but a genuine attempt to understand the experience of another being and translate that understanding into something tangible. This project gave me the opportunity to pursue that idea in a direction I had never expected: toward horses, toward equestrian sport, and toward a question that I believe matters deeply.
@@ -36,16 +36,7 @@ That is precisely what I want Equisense to do. Not to replace veterinary experti
 The visual design of the device reinforces this. All 38 screens were designed by me in Adobe Illustrator as pixel art — deliberately evoking the aesthetic of the Tamagotchi while incorporating Iranian geometric patterns and motifs. The Persian design influence was important to me personally. It is part of who I am, and horses have a deep and ancient place in Persian culture and history. Weaving that visual heritage into the interface felt like the right way to honor both.
 
 
-{
-  "profiles": {
-    "EquineWellBeingMonitor": {
-      "commandName": "Project",
-      "launchBrowser": true,
-      "launchUrl": "https://maryamshoj.github.io/equine-well-being-monitor/"
-    }
-  }
-}
-
+"https://maryamshoj.github.io/equine-well-being-monitor/"
 
 ## What I Learned About Myself
 I need to be honest about something: I came into this project knowing nothing about electronics. Not a little — nothing. The idea of wiring a circuit, writing code for a microcontroller, converting illustrations into files a device could render — all of that was completely foreign to me.
